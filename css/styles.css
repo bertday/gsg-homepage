@@ -5,7 +5,7 @@
 
 .hero-content::after {
   content: "";
-  background: url(background.png);
+  background: url(../assets/background.png);
   opacity: 0.7;
   top: 0;
   left: 0;
