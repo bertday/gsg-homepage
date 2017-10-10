@@ -14,3 +14,7 @@
   position: absolute;
   z-index: -1;
 }
+
+.screenshot {
+  border: 1px solid #777;
+}
